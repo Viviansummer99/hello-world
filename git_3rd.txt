@@ -3,3 +3,6 @@ this is thrid file ,really ?
 update ..
 
 git is realy  useful 
+
+
+2nd changes after commite A 
